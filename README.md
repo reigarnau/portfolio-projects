@@ -6,11 +6,9 @@ I like taking a workflow people already use and making it easier to get through.
 
 **What I wanted to solve.** I started with a booking and coaching workflow for one personal trainer. As the prototype grew, I defined how members, trainers and centre managers would work together and what each role could see and do at each centre.
 
-**How it works.** A member can follow a routine and log their sets, book or cancel a personal training session, and message their gym team in a shared conversation. Try the demo from the member’s side, then switch roles to see how the same workflow looks to staff.
+**How it works.** A member can follow a routine and log their sets, book or cancel a personal training session, and message their gym team in a shared conversation.
 
-**Where it stands.** I’m preparing the platform for a first pilot. The demo uses synthetic data.
-
-[Explore the énergie Fitness demo](https://energie-fitness-demo.portalnow.workers.dev/)
+**Where it stands.** I’m preparing the platform for a first pilot. The workflows were tested using synthetic data.
 
 ## 2. Marcelo · Personal training platform
 
@@ -52,17 +50,23 @@ I like taking a workflow people already use and making it easier to get through.
 
 **How it works.** Atlas keeps the map and place search on the Mac. You can view your places on a flat map or a globe and see how your travel history changes over time. The prototype was tested with a separate profile, including finding a place, saving a sample visit and checking that it was still there after reopening.
 
-![Atlas test build showing its offline world map with no visits recorded](assets/atlas-offline-map.jpg)
+**2D map**
 
-*The Atlas Mac test build with an empty profile. Map and place data credited to Natural Earth and [GeoNames](https://www.geonames.org/).*
+![Atlas 2D map showing five sample visited places](assets/atlas-2d.png)
+
+**3D globe**
+
+![Atlas 3D globe showing the same five sample visited places](assets/atlas-3d.png)
+
+*Both views are from the Mac app with a separate profile containing five sample visits.*
+
+Map data from Natural Earth and [GeoNames](https://www.geonames.org/) (adapted place data, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). Bathymetry by Jesse Allen / [NASA Earth Observatory](https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/topography-bathymetry-maps/), [GEBCO](https://www.gebco.net/data-products/gridded-bathymetry/terms-of-use) and the British Oceanographic Data Centre, adapted for Atlas. The cropped globe screenshot uses [HYG 4.1](https://github.com/astronexus/HYG-Database/blob/main/hyg/CURRENT/LICENSE) by David Nash / Astronomy Nexus and is shared under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## 6. Thumb Wars · A browser game for friends
 
 **What I wanted to solve.** I wanted friends to be able to start a quick game from their phones. One person creates a room, the others join with a short code, and everyone plays eight short challenges.
 
 **What I changed.** I chose the rules and adjusted the pacing after testing. A round can now finish when everyone has submitted a result, so a group that finishes early can move on.
-
-[Play the Thumb Wars prototype](https://thumb-wars.reigarnau.chatgpt.site/)
 
 ## 7. Professional website
 
