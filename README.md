@@ -10,6 +10,17 @@ I like taking a workflow people already use and making it easier to get through.
 
 **Where it stands.** I’m preparing the platform for a first pilot. The workflows were tested using synthetic data.
 
+
+**Member view · Strength routine**
+
+![Member view showing a sample strength routine with exercises, sets, weights and rest times](assets/energie-member-routine.jpg)
+
+**Trainer view · Weekly availability**
+
+![Trainer view showing recurring availability windows for Monday, Wednesday and Friday](assets/energie-coach-availability.jpg)
+
+*Both views are from the app in English, using fictitious data.*
+
 ## 2. Marcelo · Personal training platform
 
 **What I wanted to solve.** Scheduling a session and following a training plan are parts of the same service. I worked with a personal trainer to bring bookings, client access and training programmes into one place.
