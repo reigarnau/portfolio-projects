@@ -1,19 +1,35 @@
-# Arnau Reig Codina · Selected projects
+# Arnau Reig Codina · Project portfolio
 
-I like turning messy workflows into something people can use. These are three projects where I defined what the product should do, made decisions about how it should work, and used AI-assisted development to get to a working prototype.
+I turn day-to-day problems into tools people can use. My role across these projects has been to define the workflow, make product decisions and iterate with AI-assisted development.
 
-## JobPilot · A workspace for managing applications
+## 1. énergie Fitness · Multi-gym fitness platform
 
-I started JobPilot because roles, contacts, CV versions and follow-ups were scattered across different places. I designed a workflow that keeps each application connected to the role, the documents sent and the next action. One detail I cared about was preserving the history of a submitted application even when the role was no longer active. The demo was tested with fictitious records, including uploading and viewing a PDF and restoring a role from the trash.
+I started with a booking and coaching workflow for a personal trainer and developed the concept into a platform for gym members, trainers and managers. I defined how those roles should work together across centres. The workflows were tested in a demo using synthetic data. I’m preparing the prototype for a first pilot.
 
-## Atlas · A travel atlas for Mac
+## 2. Marcelo · Personal training platform
 
-I wanted to record a visit without having to create a full itinerary or remember the exact date. Atlas makes it possible to find a place on a map, mark it as visited and see how a travel history builds up over time. The prototype keeps the map and place search local so it can be used offline. The Mac build was tested with a separate sample profile.
+I worked with a personal trainer to bring scheduling, client access and interactive training programmes into one place. I used his day-to-day workflow to decide what the trainer needs to manage and what the client needs to see.
 
-## Thumb Wars · A browser game for friends
+## 3. Physiotherapy booking and follow-up prototype
 
-Thumb Wars is a set of eight short challenges that friends can play together from their phones. I chose the rules and, after testing, changed the pacing so a round can finish as soon as everyone has submitted a result. A room code gets everyone into the same game.
+I helped shape a prototype for an independent physiotherapy practice. I defined how patients book and reschedule appointments and how patients and the practitioner each view follow-up.
+
+## 4. JobPilot · A workspace for managing applications
+
+I started JobPilot because roles, contacts, CV versions and follow-ups were scattered across different places. I designed a workflow that keeps each application connected to the role, the documents sent and the next action. The demo was tested with fictitious records, including viewing a PDF and restoring a role without losing its application history.
+
+## 5. Atlas · An offline travel atlas for Mac
+
+**In development.** I wanted to record a visit without having to create a full itinerary or remember the exact date. The current prototype lets you find a place, mark it as visited and see how a travel history builds up over time. The Mac build was tested with a separate sample profile.
+
+## 6. Thumb Wars · A browser game for friends
+
+A lightweight prototype with eight short challenges and a shared room code. I chose the rules and changed the pacing after testing so a round can end once everyone has submitted a result.
 
 [Open the playable Thumb Wars prototype](https://thumb-wars.reigarnau.chatgpt.site/)
 
-[Visit my professional portfolio](https://arnau-reig.pages.dev/) for more about my background and other projects.
+## 7. Professional website
+
+My personal site brings together my experience, projects and the story behind them in English and Spanish.
+
+[Visit my professional website](https://arnau-reig.pages.dev/)
