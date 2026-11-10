@@ -11,15 +11,15 @@ I like taking a workflow people already use and making it easier to get through.
 **Where it stands.** I’m preparing the platform for a first pilot. The workflows were tested using synthetic data.
 
 
-**Member view · Strength routine**
+**Member dashboard · Training and progress**
 
-![Member view showing a sample strength routine with exercises, sets, weights and rest times](assets/energie-member-routine.jpg)
+![Member dashboard with navigation, workout history, the next appointment card, training routines and links to progress and messages](assets/energie-member-dashboard.jpg)
 
-**Trainer view · Weekly availability**
+**Trainer dashboard · Activity and follow-up**
 
-![Trainer view showing recurring availability windows for Monday, Wednesday and Friday](assets/energie-coach-availability.jpg)
+![Trainer dashboard with member activity, workout and appointment totals, an activity chart and items that need attention](assets/energie-trainer-dashboard.jpg)
 
-*Both views are from the app in English, using fictitious data.*
+*These views are from the app in English. All activity, counts and records shown are fictitious.*
 
 ## 2. Marcelo · Personal training platform
 
